@@ -18,7 +18,7 @@ export default function Home() {
           <a href="#process">Этапы</a>
           <a href="#reviews">Отзывы</a>
         </nav>
-        <a className="header-cta" href="#quote">Расчёт за 2 часа</a>
+        <a className="header-cta" href="#quote">Расчёт за 24 часа</a>
       </header>
 
       <main id="top">
@@ -43,7 +43,7 @@ export default function Home() {
             <ul className="hero-points">
               <li>Цена фиксируется в договоре и не меняется</li>
               <li>Сроки прописаны с финансовой ответственностью</li>
-              <li>Расчёт стоимости за 2 часа после замера</li>
+              <li>Расчёт стоимости за 24 часа после замера</li>
             </ul>
           </div>
 
@@ -130,7 +130,7 @@ export default function Home() {
             <h2>Выберите свой вариант ремонта</h2>
             <p>
               От косметического обновления до премиальной отделки с авторским надзором.
-              Рассчитаем точную стоимость для вашей квартиры за 2 часа.
+              Рассчитаем точную стоимость для вашей квартиры за 24 часа.
             </p>
           </div>
 
@@ -261,7 +261,7 @@ export default function Home() {
               <div className="showcase-copy">
                 <h3>Черновой этап</h3>
                 <p>
-                  Демонтаж, новая электрика по проекту, разводка сантехники, стяжка пола.
+                  Демонтаж, новая электрика по проекту, развод��а сантехники, стяжка пола.
                   Фундамент качественного ремонта, который не видно, но от которого всё зависит.
                 </p>
               </div>
@@ -396,12 +396,12 @@ export default function Home() {
         {/* CALCULATOR CTA */}
         <section className="section calculator-cta">
           <div className="calculator-content">
-            <p className="eyebrow">Узнайте стоимость за 2 часа</p>
+            <p className="eyebrow">Узнайте стоимость за 24 часа</p>
             <h2>Сколько стоит ремонт вашей квартиры?</h2>
             <p>Оставьте заявку — перезвоним за 15 минут, договоримся о бесплатном замере и пришлём точную смету в тот же день.</p>
             <div className="calculator-features">
               <span className="calc-feature">Замер бесплатно</span>
-              <span className="calc-feature">Смета за 2 часа</span>
+              <span className="calc-feature">Смета за 24 часа</span>
               <span className="calc-feature">3 варианта по бюджету</span>
             </div>
           </div>
@@ -432,7 +432,7 @@ export default function Home() {
               </div>
               <div className="benefit-item">
                 <span className="benefit-check">&#10003;</span>
-                <span>Смета с точной ценой за 2 часа</span>
+                <span>Смета с точной ценой за 24 часа</span>
               </div>
             </div>
           </div>
