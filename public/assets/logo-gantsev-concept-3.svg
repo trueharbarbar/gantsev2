@@ -1,0 +1,12 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="420" rx="42" fill="#181C19"/>
+  <rect x="58" y="58" width="1284" height="304" rx="28" fill="#181C19" stroke="#394139" stroke-width="2"/>
+  <path d="M126 148H254" stroke="#C89A61" stroke-width="16" stroke-linecap="square"/>
+  <path d="M126 148V286" stroke="#F5EFE5" stroke-width="16" stroke-linecap="square"/>
+  <path d="M126 286H248" stroke="#F5EFE5" stroke-width="16" stroke-linecap="square"/>
+  <path d="M184 190V248H242" stroke="#C89A61" stroke-width="12" stroke-linecap="square"/>
+  <text x="330" y="184" fill="#F5EFE5" font-family="Georgia, 'Times New Roman', serif" font-size="110" font-weight="700" letter-spacing="8">ГАНЦЕВ</text>
+  <text x="336" y="236" fill="#9EA89D" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="6">СТРОИТЕЛЬНАЯ КОМПАНИЯ • САНКТ-ПЕТЕРБУРГ</text>
+  <line x1="336" y1="266" x2="1120" y2="266" stroke="#C89A61" stroke-width="2"/>
+  <text x="336" y="316" fill="#C89A61" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="4">КВАРТИРЫ • КОММЕРЧЕСКИЕ ПОМЕЩЕНИЯ • ПОЛНЫЙ ЦИКЛ ОТДЕЛКИ</text>
+</svg>

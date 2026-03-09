@@ -1,0 +1,30 @@
+<svg width="1400" height="980" viewBox="0 0 1400 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="980" rx="36" fill="#EFE7DB"/>
+  <rect x="54" y="54" width="1292" height="872" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+
+  <text x="96" y="122" fill="#181C19" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="4">ФИРМЕННЫЙ СТИЛЬ</text>
+  <text x="96" y="170" fill="#181C19" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">ГАНЦЕВ</text>
+  <text x="98" y="208" fill="#6B5D4E" font-family="Arial, sans-serif" font-size="22">Тёмная статусная база, бело-золотой знак и спокойная дорогая типографика.</text>
+
+  <rect x="96" y="260" width="1208" height="286" rx="28" fill="#121815"/>
+  <image href="logo-gantsev-luxe-lockup.svg" x="128" y="318" width="1144" height="170"/>
+
+  <rect x="96" y="586" width="280" height="220" rx="24" fill="#121815"/>
+  <text x="126" y="634" fill="#F5EFE5" font-family="Arial, sans-serif" font-size="20" font-weight="700">Graphite</text>
+  <text x="126" y="670" fill="#F5EFE5" font-family="Arial, sans-serif" font-size="28" font-weight="700">#121815</text>
+
+  <rect x="402" y="586" width="280" height="220" rx="24" fill="#E0AF3A"/>
+  <text x="432" y="634" fill="#121815" font-family="Arial, sans-serif" font-size="20" font-weight="700">Accent Gold</text>
+  <text x="432" y="670" fill="#121815" font-family="Arial, sans-serif" font-size="28" font-weight="700">#E0AF3A</text>
+
+  <rect x="708" y="586" width="280" height="220" rx="24" fill="#F5EFE5"/>
+  <text x="738" y="634" fill="#121815" font-family="Arial, sans-serif" font-size="20" font-weight="700">Warm Ivory</text>
+  <text x="738" y="670" fill="#121815" font-family="Arial, sans-serif" font-size="28" font-weight="700">#F5EFE5</text>
+
+  <rect x="1014" y="586" width="290" height="220" rx="24" fill="#FFF8EE"/>
+  <text x="1044" y="634" fill="#121815" font-family="Arial, sans-serif" font-size="20" font-weight="700">Paper</text>
+  <text x="1044" y="670" fill="#121815" font-family="Arial, sans-serif" font-size="28" font-weight="700">#FFF8EE</text>
+
+  <text x="98" y="866" fill="#181C19" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">СЛОГАН</text>
+  <text x="98" y="906" fill="#E0AF3A" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="2">ПОРЯДОК В ПРОСТРАНСТВЕ. РЕЗУЛЬТАТ В ДЕТАЛЯХ.</text>
+</svg>

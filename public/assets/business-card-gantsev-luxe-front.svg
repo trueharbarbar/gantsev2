@@ -1,0 +1,12 @@
+<svg width="1050" height="600" viewBox="0 0 1050 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1050" height="600" rx="36" fill="#121815"/>
+  <rect x="54" y="54" width="942" height="492" rx="28" fill="#121815" stroke="#2B332E" stroke-width="2"/>
+
+  <path d="M388 244V172L444 130L500 172" stroke="#F5EFE5" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M420 208V274H486" stroke="#F5EFE5" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M448 244V172L504 130L560 172V244" stroke="#E0AF3A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M480 208V274H544V244" stroke="#E0AF3A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="236" y="384" fill="#E0AF3A" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" letter-spacing="4">ГАНЦЕВ</text>
+  <text x="292" y="430" fill="#F5EFE5" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="6">СТРОИТЕЛЬНАЯ КОМПАНИЯ</text>
+</svg>

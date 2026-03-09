@@ -1,0 +1,16 @@
+<svg width="1050" height="600" viewBox="0 0 1050 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1050" height="600" rx="36" fill="#D9D9D9"/>
+  <rect x="90" y="100" width="870" height="400" rx="10" fill="#121815"/>
+
+  <path d="M90 146C118 212 118 388 90 454" stroke="#171D1A" stroke-width="68" stroke-linecap="round"/>
+  <path d="M960 146C932 212 932 388 960 454" stroke="#171D1A" stroke-width="68" stroke-linecap="round"/>
+
+  <path d="M418 250V184L470 144L522 184" stroke="#F5EFE5" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M448 214V286H512" stroke="#F5EFE5" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M478 250V184L530 144L582 184V250" stroke="#E0AF3A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M508 214V286H570V250" stroke="#E0AF3A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="360" y="350" fill="#E0AF3A" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="700" letter-spacing="4">ГАНЦЕВ</text>
+  <text x="306" y="388" fill="#F5EFE5" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">СТРОИТЕЛЬНО-ОТДЕЛОЧНАЯ КОМПАНИЯ</text>
+  <text x="354" y="446" fill="#E0AF3A" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">ПОРЯДОК В ПРОСТРАНСТВЕ. РЕЗУЛЬТАТ В ДЕТАЛЯХ.</text>
+</svg>

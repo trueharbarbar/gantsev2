@@ -1,0 +1,16 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="420" rx="42" fill="#181C19"/>
+  <rect x="58" y="58" width="1284" height="304" rx="28" fill="#181C19" stroke="#394139" stroke-width="2"/>
+  <path d="M110 254V168L176 118L242 168" stroke="#F5EFE5" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M148 210V290H226" stroke="#F5EFE5" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 254V168L246 118L312 168V254" stroke="#E0AF3A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M218 210V290H294V254" stroke="#E0AF3A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="376" y="174" fill="#F5EFE5" font-family="Georgia, 'Times New Roman', serif" font-size="114" font-weight="700" letter-spacing="10">ГАНЦЕВ</text>
+  <text x="382" y="226" fill="#9EA89D" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="6">СТРОИТЕЛЬНАЯ КОМПАНИЯ • САНКТ-ПЕТЕРБУРГ</text>
+  <text x="382" y="284" fill="#E0AF3A" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">ПОРЯДОК В ПРОСТРАНСТВЕ.</text>
+  <text x="382" y="316" fill="#F5EFE5" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">РЕЗУЛЬТАТ В ДЕТАЛЯХ.</text>
+  <line x1="816" y1="114" x2="816" y2="330" stroke="#C89A61" stroke-width="2"/>
+  <text x="850" y="228" fill="#E0AF3A" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2">ОТДЕЛКА И РЕМОНТ</text>
+  <text x="850" y="260" fill="#F5EFE5" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2">КВАРТИР И КОММЕРЧЕСКИХ</text>
+  <text x="850" y="292" fill="#F5EFE5" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2">ПОМЕЩЕНИЙ</text>
+</svg>

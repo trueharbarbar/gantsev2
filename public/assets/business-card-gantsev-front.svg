@@ -1,0 +1,27 @@
+<svg width="1050" height="600" viewBox="0 0 1050 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1050" height="600" rx="36" fill="#F6F1E8"/>
+  <rect x="54" y="54" width="942" height="492" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+  <rect x="106" y="112" width="152" height="152" rx="34" fill="#181C19"/>
+  <path d="M142 194L182 156L222 194" stroke="#C89A61" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M156 194V230H208V194" stroke="#F5EFE5" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M172 230V204H192V230" stroke="#C89A61" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M204 168H222V186" stroke="#F5EFE5" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter"/>
+  <text x="314" y="188" fill="#181C19" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" letter-spacing="4">ГАНЦЕВ</text>
+  <text x="315" y="224" fill="#6A5C4E" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="4">СТРОИТЕЛЬНАЯ КОМПАНИЯ</text>
+  <line x1="314" y1="248" x2="894" y2="248" stroke="#D8C7AE" stroke-width="2"/>
+  <text x="110" y="392" fill="#1E1B17" font-family="Arial, sans-serif" font-size="34" font-weight="700">
+    Евгений Ганцев
+  </text>
+  <text x="110" y="430" fill="#6A5C4E" font-family="Arial, sans-serif" font-size="22" font-weight="700">
+    Руководитель проектов
+  </text>
+  <text x="110" y="490" fill="#1E1B17" font-family="Arial, sans-serif" font-size="24" font-weight="700">
+    +7 921 782-22-18
+  </text>
+  <text x="110" y="524" fill="#6A5C4E" font-family="Arial, sans-serif" font-size="20" font-weight="700">
+    Санкт-Петербург • квартиры • коммерческие помещения
+  </text>
+  <text x="640" y="492" fill="#C89A61" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="2">
+    GANTSEV.STROY
+  </text>
+</svg>

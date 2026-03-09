@@ -1,0 +1,15 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="420" rx="42" fill="#181C19"/>
+  <rect x="58" y="58" width="1284" height="304" rx="28" fill="#181C19" stroke="#394139" stroke-width="2"/>
+  <rect x="116" y="116" width="148" height="148" rx="30" fill="#212723" stroke="#3A433D" stroke-width="2"/>
+  <rect x="146" y="146" width="38" height="38" fill="none" stroke="#F5EFE5" stroke-width="8"/>
+  <rect x="196" y="146" width="38" height="38" fill="none" stroke="#C89A61" stroke-width="8"/>
+  <rect x="146" y="196" width="38" height="38" fill="none" stroke="#C89A61" stroke-width="8"/>
+  <rect x="196" y="196" width="38" height="38" fill="none" stroke="#F5EFE5" stroke-width="8"/>
+  <path d="M190 140V240" stroke="#3A433D" stroke-width="2"/>
+  <path d="M140 190H240" stroke="#3A433D" stroke-width="2"/>
+  <text x="332" y="176" fill="#F5EFE5" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="700" letter-spacing="8">ГАНЦЕВ</text>
+  <text x="338" y="230" fill="#9EA89D" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="6">СТРОИТЕЛЬНАЯ КОМПАНИЯ • САНКТ-ПЕТЕРБУРГ</text>
+  <line x1="338" y1="264" x2="1126" y2="264" stroke="#C89A61" stroke-width="2"/>
+  <text x="338" y="314" fill="#C89A61" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="3">ТОЧНЫЕ СТЫКИ • РОВНЫЕ ПЛОСКОСТИ • ЧИСТЫЙ ФИНИШ</text>
+</svg>

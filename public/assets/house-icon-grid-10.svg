@@ -1,0 +1,87 @@
+<svg width="1400" height="980" viewBox="0 0 1400 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="980" rx="40" fill="#EFE7DB"/>
+  <text x="80" y="90" fill="#181C19" font-family="Arial, sans-serif" font-size="42" font-weight="700">10 вариантов знака</text>
+  <text x="80" y="130" fill="#6B5D4E" font-family="Arial, sans-serif" font-size="22">Выбери номер, и я доведу его до фирменного логотипа</text>
+
+  <g transform="translate(80 180)">
+    <rect width="220" height="320" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+    <text x="28" y="42" fill="#181C19" font-family="Arial, sans-serif" font-size="28" font-weight="700">1</text>
+    <path d="M54 150L110 100L166 150" stroke="#C89A61" stroke-width="10" stroke-linecap="square"/>
+    <path d="M68 150V226H152V150" stroke="#181C19" stroke-width="10" stroke-linecap="square"/>
+    <path d="M96 226V184H124V226" stroke="#C89A61" stroke-width="8" stroke-linecap="square"/>
+  </g>
+
+  <g transform="translate(340 180)">
+    <rect width="220" height="320" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+    <text x="28" y="42" fill="#181C19" font-family="Arial, sans-serif" font-size="28" font-weight="700">2</text>
+    <path d="M60 146L110 102L160 146" stroke="#181C19" stroke-width="10" stroke-linecap="square"/>
+    <path d="M76 146V220H144V146" stroke="#C89A61" stroke-width="10" stroke-linecap="square"/>
+    <path d="M92 174H128" stroke="#181C19" stroke-width="8" stroke-linecap="square"/>
+  </g>
+
+  <g transform="translate(600 180)">
+    <rect width="220" height="320" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+    <text x="28" y="42" fill="#181C19" font-family="Arial, sans-serif" font-size="28" font-weight="700">3</text>
+    <path d="M58 156L110 108L162 156" stroke="#C89A61" stroke-width="10" stroke-linecap="square"/>
+    <path d="M74 156V220H146V156" stroke="#181C19" stroke-width="10" stroke-linecap="square"/>
+    <path d="M146 156L170 132" stroke="#181C19" stroke-width="8" stroke-linecap="square"/>
+  </g>
+
+  <g transform="translate(860 180)">
+    <rect width="220" height="320" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+    <text x="28" y="42" fill="#181C19" font-family="Arial, sans-serif" font-size="28" font-weight="700">4</text>
+    <path d="M70 106V220H148" stroke="#181C19" stroke-width="10" stroke-linecap="square"/>
+    <path d="M70 106H148V156" stroke="#C89A61" stroke-width="10" stroke-linecap="square"/>
+    <path d="M96 220V182H126" stroke="#C89A61" stroke-width="8" stroke-linecap="square"/>
+  </g>
+
+  <g transform="translate(1120 180)">
+    <rect width="220" height="320" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+    <text x="28" y="42" fill="#181C19" font-family="Arial, sans-serif" font-size="28" font-weight="700">5</text>
+    <rect x="68" y="116" width="84" height="96" fill="none" stroke="#181C19" stroke-width="10"/>
+    <path d="M58 126L110 84L162 126" stroke="#C89A61" stroke-width="10" stroke-linecap="square"/>
+    <path d="M96 212V176H124V212" stroke="#C89A61" stroke-width="8" stroke-linecap="square"/>
+  </g>
+
+  <g transform="translate(80 560)">
+    <rect width="220" height="320" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+    <text x="28" y="42" fill="#181C19" font-family="Arial, sans-serif" font-size="28" font-weight="700">6</text>
+    <path d="M58 146L110 102L162 146" stroke="#181C19" stroke-width="10" stroke-linecap="square"/>
+    <path d="M78 146V222H142V146" stroke="#181C19" stroke-width="10" stroke-linecap="square"/>
+    <path d="M78 186H142" stroke="#C89A61" stroke-width="8" stroke-linecap="square"/>
+  </g>
+
+  <g transform="translate(340 560)">
+    <rect width="220" height="320" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+    <text x="28" y="42" fill="#181C19" font-family="Arial, sans-serif" font-size="28" font-weight="700">7</text>
+    <path d="M62 152L110 108L158 152" stroke="#C89A61" stroke-width="10" stroke-linecap="square"/>
+    <path d="M78 152V214H142V152" stroke="#181C19" stroke-width="10" stroke-linecap="square"/>
+    <path d="M88 214H132" stroke="#C89A61" stroke-width="8" stroke-linecap="square"/>
+    <path d="M170 126V214" stroke="#181C19" stroke-width="8" stroke-linecap="square"/>
+  </g>
+
+  <g transform="translate(600 560)">
+    <rect width="220" height="320" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+    <text x="28" y="42" fill="#181C19" font-family="Arial, sans-serif" font-size="28" font-weight="700">8</text>
+    <path d="M62 154L110 112L158 154" stroke="#181C19" stroke-width="10" stroke-linecap="square"/>
+    <path d="M78 154V218H142V154" stroke="#C89A61" stroke-width="10" stroke-linecap="square"/>
+    <path d="M110 136V96" stroke="#C89A61" stroke-width="8" stroke-linecap="square"/>
+  </g>
+
+  <g transform="translate(860 560)">
+    <rect width="220" height="320" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+    <text x="28" y="42" fill="#181C19" font-family="Arial, sans-serif" font-size="28" font-weight="700">9</text>
+    <path d="M64 142L110 100L156 142" stroke="#C89A61" stroke-width="10" stroke-linecap="square"/>
+    <path d="M84 142V214H136V142" stroke="#181C19" stroke-width="10" stroke-linecap="square"/>
+    <path d="M156 142H174V214H136" stroke="#181C19" stroke-width="8" stroke-linecap="square"/>
+  </g>
+
+  <g transform="translate(1120 560)">
+    <rect width="220" height="320" rx="28" fill="#FFF8EE" stroke="#D8C7AE" stroke-width="2"/>
+    <text x="28" y="42" fill="#181C19" font-family="Arial, sans-serif" font-size="28" font-weight="700">10</text>
+    <path d="M56 150L110 98L164 150" stroke="#181C19" stroke-width="10" stroke-linecap="square"/>
+    <path d="M74 150V220H146V150" stroke="#181C19" stroke-width="10" stroke-linecap="square"/>
+    <path d="M88 220L132 176" stroke="#C89A61" stroke-width="8" stroke-linecap="square"/>
+    <path d="M132 176H146" stroke="#C89A61" stroke-width="8" stroke-linecap="square"/>
+  </g>
+</svg>

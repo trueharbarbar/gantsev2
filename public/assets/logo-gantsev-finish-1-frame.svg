@@ -1,0 +1,13 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="420" rx="42" fill="#181C19"/>
+  <rect x="58" y="58" width="1284" height="304" rx="28" fill="#181C19" stroke="#394139" stroke-width="2"/>
+  <rect x="118" y="118" width="144" height="144" rx="28" fill="#212723" stroke="#3A433D" stroke-width="2"/>
+  <path d="M148 154V122H212" stroke="#F5EFE5" stroke-width="10" stroke-linecap="square"/>
+  <path d="M168 134H226V192" stroke="#C89A61" stroke-width="10" stroke-linecap="square"/>
+  <path d="M150 230V178H202" stroke="#C89A61" stroke-width="10" stroke-linecap="square"/>
+  <path d="M230 150V202H178" stroke="#F5EFE5" stroke-width="10" stroke-linecap="square"/>
+  <text x="332" y="176" fill="#F5EFE5" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="700" letter-spacing="8">ГАНЦЕВ</text>
+  <text x="338" y="230" fill="#9EA89D" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="6">СТРОИТЕЛЬНАЯ КОМПАНИЯ • САНКТ-ПЕТЕРБУРГ</text>
+  <line x1="338" y1="264" x2="1126" y2="264" stroke="#C89A61" stroke-width="2"/>
+  <text x="338" y="314" fill="#C89A61" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="3">ЧИСТОВАЯ ОТДЕЛКА • ИНТЕРЬЕРНАЯ ГЕОМЕТРИЯ • РАБОТА С ДЕТАЛЬЮ</text>
+</svg>

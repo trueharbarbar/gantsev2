@@ -1,0 +1,12 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" rx="40" fill="#F6F1E8"/>
+  <rect x="32" y="32" width="232" height="232" rx="54" fill="#181C19"/>
+  <path d="M92 146L148 94L204 146" stroke="#C89A61" stroke-width="14" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M110 146V204H186V146" stroke="#F5EFE5" stroke-width="14" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M132 204V164H164V204" stroke="#C89A61" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M180 110H204V134" stroke="#F5EFE5" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter"/>
+  <text x="324" y="150" fill="#181C19" font-family="Georgia, 'Times New Roman', serif" font-size="86" font-weight="700" letter-spacing="6">ГАНЦЕВ</text>
+  <text x="326" y="194" fill="#6A5C4E" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="6">СТРОИТЕЛЬНАЯ КОМПАНИЯ</text>
+  <line x1="324" y1="220" x2="1020" y2="220" stroke="#D8C7AE" stroke-width="2"/>
+  <text x="324" y="258" fill="#C89A61" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">РЕМОНТ И ОТДЕЛКА КВАРТИР И КОММЕРЧЕСКИХ ПОМЕЩЕНИЙ</text>
+</svg>

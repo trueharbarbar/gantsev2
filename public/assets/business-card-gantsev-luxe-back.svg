@@ -1,0 +1,16 @@
+<svg width="1050" height="600" viewBox="0 0 1050 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1050" height="600" rx="36" fill="#121815"/>
+  <rect x="54" y="54" width="942" height="492" rx="28" fill="#121815" stroke="#2B332E" stroke-width="2"/>
+
+  <text x="110" y="172" fill="#E0AF3A" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="3">ЕВГЕНИЙ ГАНЦЕВ</text>
+  <text x="112" y="214" fill="#F5EFE5" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="5">РУКОВОДИТЕЛЬ ПРОЕКТОВ</text>
+  <line x1="110" y1="246" x2="940" y2="246" stroke="#2B332E" stroke-width="2"/>
+
+  <text x="110" y="320" fill="#E0AF3A" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">ТЕЛЕФОН</text>
+  <text x="110" y="352" fill="#F5EFE5" font-family="Arial, sans-serif" font-size="32" font-weight="700">+7 921 782-22-18</text>
+
+  <text x="110" y="416" fill="#E0AF3A" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">ГОРОД</text>
+  <text x="110" y="448" fill="#F5EFE5" font-family="Arial, sans-serif" font-size="26" font-weight="700">САНКТ-ПЕТЕРБУРГ</text>
+
+  <text x="110" y="510" fill="#F5EFE5" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2">РЕМОНТ И ОТДЕЛКА КВАРТИР И КОММЕРЧЕСКИХ ПОМЕЩЕНИЙ</text>
+</svg>
